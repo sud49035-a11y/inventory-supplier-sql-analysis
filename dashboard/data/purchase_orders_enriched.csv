@@ -1,0 +1,328 @@
+po_id,order_date,promised_date,received_date,supplier_name,supplier_country,product_name,category,qty_ordered,qty_received,qty_short,short_value,days_late,on_time_flag,actual_lead_days
+1,2025-01-07,2025-01-17,2025-01-16,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,500,500,0,0.0,-1,1,9
+2,2025-02-02,2025-02-12,2025-02-12,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,300,300,0,0.0,0,1,10
+3,2025-03-04,2025-03-14,2025-03-14,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,1000,1000,0,0.0,0,1,10
+4,2025-03-28,2025-04-07,2025-04-07,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,500,500,0,0.0,0,1,10
+5,2025-04-19,2025-04-29,2025-04-29,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,300,300,0,0.0,0,1,10
+6,2025-05-19,2025-05-29,2025-05-29,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,500,500,0,0.0,0,1,10
+7,2025-06-20,2025-06-30,2025-06-29,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,500,500,0,0.0,-1,1,9
+8,2025-07-20,2025-07-30,2025-07-29,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,300,300,0,0.0,-1,1,9
+9,2025-08-13,2025-08-23,2025-08-22,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,1000,1000,0,0.0,-1,1,9
+10,2025-09-06,2025-09-16,2025-09-15,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,300,259,41,166.05,-1,1,9
+11,2025-10-05,2025-10-15,2025-10-15,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,300,300,0,0.0,0,1,10
+12,2025-11-07,2025-11-17,2025-11-16,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,300,300,0,0.0,-1,1,9
+13,2025-12-02,2025-12-12,2025-12-11,Pacific Pantry Ltd,USA,Spaghetti 500g,Pasta & Grains,300,300,0,0.0,-1,1,9
+14,2025-01-09,2025-01-16,2025-01-18,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,1000,1000,0,0.0,2,0,9
+15,2025-02-10,2025-02-17,2025-02-17,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,1000,1000,0,0.0,0,1,7
+16,2025-03-03,2025-03-10,2025-03-10,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,1000,1000,0,0.0,0,1,7
+17,2025-03-30,2025-04-06,2025-04-06,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,1000,1000,0,0.0,0,1,7
+18,2025-04-27,2025-05-04,2025-05-04,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,300,282,18,32.58,0,1,7
+19,2025-05-21,2025-05-28,2025-05-27,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,800,800,0,0.0,-1,1,6
+20,2025-06-25,2025-07-02,2025-07-02,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,300,300,0,0.0,0,1,7
+21,2025-07-18,2025-07-25,2025-08-02,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,300,244,56,101.36,8,0,15
+22,2025-08-21,2025-08-28,2025-08-27,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,800,800,0,0.0,-1,1,6
+23,2025-09-24,2025-10-01,2025-10-01,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,800,800,0,0.0,0,1,7
+24,2025-10-22,2025-10-29,2025-10-28,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,500,500,0,0.0,-1,1,6
+25,2025-11-21,2025-11-28,2025-11-28,Nordic Grain Co,Germany,Penne 500g,Pasta & Grains,800,800,0,0.0,0,1,7
+26,2025-01-06,2025-01-14,2025-01-14,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,500,500,0,0.0,0,1,8
+27,2025-02-09,2025-02-17,2025-02-16,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,800,800,0,0.0,-1,1,7
+28,2025-03-07,2025-03-15,2025-03-16,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,800,800,0,0.0,1,0,9
+29,2025-04-11,2025-04-19,2025-04-23,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,300,300,0,0.0,4,0,12
+30,2025-05-13,2025-05-21,2025-05-21,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,1000,927,73,56.21,0,1,8
+31,2025-06-17,2025-06-25,2025-07-02,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,800,800,0,0.0,7,0,15
+32,2025-07-21,2025-07-29,2025-07-31,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,800,800,0,0.0,2,0,10
+33,2025-08-18,2025-08-26,2025-09-02,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,500,500,0,0.0,7,0,15
+34,2025-09-08,2025-09-16,2025-09-22,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,300,300,0,0.0,6,0,14
+35,2025-10-03,2025-10-11,2025-10-13,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,1000,1000,0,0.0,2,0,10
+36,2025-10-29,2025-11-06,2025-11-09,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,300,256,44,33.88,3,0,11
+37,2025-11-22,2025-11-30,2025-11-30,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,1000,1000,0,0.0,0,1,8
+38,2025-12-13,2025-12-21,2025-12-21,Alpine Snacks GmbH,Germany,Basmati Rice 2kg,Pasta & Grains,300,248,52,40.04,0,1,8
+39,2025-01-07,2025-01-16,2025-01-19,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,300,300,0,0.0,3,0,12
+40,2025-02-01,2025-02-10,2025-02-17,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,800,800,0,0.0,7,0,16
+41,2025-02-24,2025-03-05,2025-03-05,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,300,300,0,0.0,0,1,9
+42,2025-03-31,2025-04-09,2025-04-08,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,800,800,0,0.0,-1,1,8
+43,2025-05-03,2025-05-12,2025-05-12,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,300,300,0,0.0,0,1,9
+44,2025-06-02,2025-06-11,2025-06-14,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,500,500,0,0.0,3,0,12
+45,2025-07-05,2025-07-14,2025-07-13,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,500,500,0,0.0,-1,1,8
+46,2025-08-01,2025-08-10,2025-08-17,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,1000,1000,0,0.0,7,0,16
+47,2025-09-02,2025-09-11,2025-09-14,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,300,300,0,0.0,3,0,12
+48,2025-09-25,2025-10-04,2025-10-04,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,800,647,153,555.39,0,1,9
+49,2025-10-30,2025-11-08,2025-11-14,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,500,500,0,0.0,6,0,15
+50,2025-11-21,2025-11-30,2025-12-08,EuroBake Supply,Netherlands,Rolled Oats 1kg,Pasta & Grains,1000,1000,0,0.0,8,0,17
+51,2025-01-09,2025-01-14,2025-01-13,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,1000,1000,0,0.0,-1,1,4
+52,2025-02-13,2025-02-18,2025-02-17,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,1000,1000,0,0.0,-1,1,4
+53,2025-03-15,2025-03-20,2025-03-19,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,800,800,0,0.0,-1,1,4
+54,2025-04-09,2025-04-14,2025-04-14,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,1000,1000,0,0.0,0,1,5
+55,2025-05-07,2025-05-12,2025-05-12,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,1000,1000,0,0.0,0,1,5
+56,2025-06-01,2025-06-06,2025-06-05,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,1000,1000,0,0.0,-1,1,4
+57,2025-06-26,2025-07-01,2025-07-01,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,800,800,0,0.0,0,1,5
+58,2025-07-18,2025-07-23,2025-07-23,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,500,500,0,0.0,0,1,5
+59,2025-08-12,2025-08-17,2025-08-17,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,500,500,0,0.0,0,1,5
+60,2025-09-04,2025-09-09,2025-09-09,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,300,300,0,0.0,0,1,5
+61,2025-09-26,2025-10-01,2025-10-01,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,800,800,0,0.0,0,1,5
+62,2025-10-22,2025-10-27,2025-10-27,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,1000,1000,0,0.0,0,1,5
+63,2025-11-13,2025-11-18,2025-11-17,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,500,500,0,0.0,-1,1,4
+64,2025-12-11,2025-12-16,2025-12-15,Maple Valley Foods,Canada,Couscous 500g,Pasta & Grains,800,800,0,0.0,-1,1,4
+65,2025-01-08,2025-01-12,2025-01-12,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,300,300,0,0.0,0,1,4
+66,2025-02-06,2025-02-10,2025-02-10,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,300,300,0,0.0,0,1,4
+67,2025-03-11,2025-03-15,2025-03-14,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,500,500,0,0.0,-1,1,3
+68,2025-04-11,2025-04-15,2025-04-15,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,300,300,0,0.0,0,1,4
+69,2025-05-07,2025-05-11,2025-05-10,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,500,500,0,0.0,-1,1,3
+70,2025-06-11,2025-06-15,2025-06-14,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,300,300,0,0.0,-1,1,3
+71,2025-07-04,2025-07-08,2025-07-07,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,1000,785,215,939.55,-1,1,3
+72,2025-08-07,2025-08-11,2025-08-11,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,1000,1000,0,0.0,0,1,4
+73,2025-08-29,2025-09-02,2025-09-01,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,500,500,0,0.0,-1,1,3
+74,2025-09-25,2025-09-29,2025-09-28,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,500,500,0,0.0,-1,1,3
+75,2025-10-18,2025-10-22,2025-10-21,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,1000,1000,0,0.0,-1,1,3
+76,2025-11-13,2025-11-17,2025-11-16,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,1000,1000,0,0.0,-1,1,3
+77,2025-12-16,2025-12-20,2025-12-19,Sunrise Beverages,Canada,Diced Tomatoes 400g,Canned Goods,300,258,42,183.54,-1,1,3
+78,2025-01-07,2025-01-14,2025-01-13,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,300,300,0,0.0,-1,1,6
+79,2025-02-11,2025-02-18,2025-02-18,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,300,300,0,0.0,0,1,7
+80,2025-03-08,2025-03-15,2025-03-19,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,1000,1000,0,0.0,4,0,11
+81,2025-04-02,2025-04-09,2025-04-11,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,300,300,0,0.0,2,0,9
+82,2025-05-03,2025-05-10,2025-05-14,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,800,800,0,0.0,4,0,11
+83,2025-05-29,2025-06-05,2025-06-05,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,1000,924,76,438.52,0,1,7
+84,2025-06-19,2025-06-26,2025-06-26,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,800,800,0,0.0,0,1,7
+85,2025-07-24,2025-07-31,2025-07-31,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,500,500,0,0.0,0,1,7
+86,2025-08-22,2025-08-29,2025-08-29,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,1000,1000,0,0.0,0,1,7
+87,2025-09-15,2025-09-22,2025-09-30,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,300,300,0,0.0,8,0,15
+88,2025-10-12,2025-10-19,2025-10-19,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,300,300,0,0.0,0,1,7
+89,2025-11-04,2025-11-11,2025-11-11,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,1000,1000,0,0.0,0,1,7
+90,2025-12-04,2025-12-11,2025-12-11,Nordic Grain Co,Germany,Chickpeas 400g,Canned Goods,800,800,0,0.0,0,1,7
+91,2025-01-09,2025-01-19,2025-01-18,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,500,415,85,95.2,-1,1,9
+92,2025-02-01,2025-02-11,2025-02-11,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,300,300,0,0.0,0,1,10
+93,2025-02-27,2025-03-09,2025-03-13,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,500,500,0,0.0,4,0,14
+94,2025-03-20,2025-03-30,2025-03-30,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,500,392,108,120.96,0,1,10
+95,2025-04-18,2025-04-28,2025-04-28,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,800,800,0,0.0,0,1,10
+96,2025-05-13,2025-05-23,2025-05-23,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,1000,833,167,187.04,0,1,10
+97,2025-06-13,2025-06-23,2025-06-25,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,1000,1000,0,0.0,2,0,12
+98,2025-07-07,2025-07-17,2025-07-17,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,1000,1000,0,0.0,0,1,10
+99,2025-07-29,2025-08-08,2025-08-08,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,300,300,0,0.0,0,1,10
+100,2025-08-28,2025-09-07,2025-09-06,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,800,800,0,0.0,-1,1,9
+101,2025-09-28,2025-10-08,2025-10-10,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,300,300,0,0.0,2,0,12
+102,2025-11-01,2025-11-11,2025-11-13,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,1000,1000,0,0.0,2,0,12
+103,2025-11-26,2025-12-06,2025-12-12,Pacific Pantry Ltd,USA,Black Beans 400g,Canned Goods,300,271,29,32.48,6,0,16
+104,2025-01-03,2025-01-12,2025-01-12,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,800,800,0,0.0,0,1,9
+105,2025-01-26,2025-02-04,2025-02-10,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,1000,1000,0,0.0,6,0,15
+106,2025-02-20,2025-03-01,2025-03-01,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,500,500,0,0.0,0,1,9
+107,2025-03-20,2025-03-29,2025-03-28,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,500,500,0,0.0,-1,1,8
+108,2025-04-18,2025-04-27,2025-05-02,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,500,500,0,0.0,5,0,14
+109,2025-05-11,2025-05-20,2025-05-20,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,500,500,0,0.0,0,1,9
+110,2025-06-09,2025-06-18,2025-06-18,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,800,800,0,0.0,0,1,9
+111,2025-07-03,2025-07-12,2025-07-14,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,1000,1000,0,0.0,2,0,11
+112,2025-07-25,2025-08-03,2025-08-03,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,500,500,0,0.0,0,1,9
+113,2025-08-17,2025-08-26,2025-08-25,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,800,800,0,0.0,-1,1,8
+114,2025-09-21,2025-09-30,2025-09-30,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,800,800,0,0.0,0,1,9
+115,2025-10-14,2025-10-23,2025-10-22,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,800,800,0,0.0,-1,1,8
+116,2025-11-15,2025-11-24,2025-11-24,EuroBake Supply,Netherlands,Tuna Chunks 170g,Canned Goods,300,300,0,0.0,0,1,9
+117,2025-01-04,2025-01-10,2025-01-10,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,800,800,0,0.0,0,1,6
+118,2025-02-06,2025-02-12,2025-02-18,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,500,500,0,0.0,6,0,12
+119,2025-03-02,2025-03-08,2025-03-07,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,1000,1000,0,0.0,-1,1,5
+120,2025-03-31,2025-04-06,2025-04-06,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,500,500,0,0.0,0,1,6
+121,2025-04-27,2025-05-03,2025-05-02,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,800,800,0,0.0,-1,1,5
+122,2025-05-23,2025-05-29,2025-06-05,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,300,300,0,0.0,7,0,13
+123,2025-06-14,2025-06-20,2025-06-20,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,300,234,66,236.28,0,1,6
+124,2025-07-05,2025-07-11,2025-07-11,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,300,300,0,0.0,0,1,6
+125,2025-07-31,2025-08-06,2025-08-06,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,800,800,0,0.0,0,1,6
+126,2025-08-24,2025-08-30,2025-08-29,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,1000,1000,0,0.0,-1,1,5
+127,2025-09-18,2025-09-24,2025-09-24,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,500,500,0,0.0,0,1,6
+128,2025-10-17,2025-10-23,2025-10-23,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,300,300,0,0.0,0,1,6
+129,2025-11-07,2025-11-13,2025-11-12,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,300,300,0,0.0,-1,1,5
+130,2025-12-05,2025-12-11,2025-12-10,Golden Harvest,Canada,Sweet Corn 340g,Canned Goods,300,300,0,0.0,-1,1,5
+131,2025-01-02,2025-01-10,2025-01-10,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,800,800,0,0.0,0,1,8
+132,2025-01-23,2025-01-31,2025-02-02,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,800,642,158,695.2,2,0,10
+133,2025-02-25,2025-03-05,2025-03-08,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,300,300,0,0.0,3,0,11
+134,2025-03-19,2025-03-27,2025-03-27,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,300,300,0,0.0,0,1,8
+135,2025-04-16,2025-04-24,2025-04-24,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,1000,1000,0,0.0,0,1,8
+136,2025-05-11,2025-05-19,2025-05-20,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,800,800,0,0.0,1,0,9
+137,2025-06-02,2025-06-10,2025-06-10,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,500,500,0,0.0,0,1,8
+138,2025-06-24,2025-07-02,2025-07-01,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,800,800,0,0.0,-1,1,7
+139,2025-07-27,2025-08-04,2025-08-03,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,800,800,0,0.0,-1,1,7
+140,2025-08-19,2025-08-27,2025-09-04,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,500,455,45,198.0,8,0,16
+141,2025-09-14,2025-09-22,2025-09-22,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,300,300,0,0.0,0,1,8
+142,2025-10-09,2025-10-17,2025-10-25,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,300,300,0,0.0,8,0,16
+143,2025-10-31,2025-11-08,2025-11-11,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,800,800,0,0.0,3,0,11
+144,2025-12-05,2025-12-13,2025-12-20,Alpine Snacks GmbH,Germany,Salted Chips 200g,Snacks,500,500,0,0.0,7,0,15
+145,2025-01-03,2025-01-10,2025-01-10,Nordic Grain Co,Germany,Pretzels 250g,Snacks,800,800,0,0.0,0,1,7
+146,2025-01-29,2025-02-05,2025-02-04,Nordic Grain Co,Germany,Pretzels 250g,Snacks,800,800,0,0.0,-1,1,6
+147,2025-02-24,2025-03-03,2025-03-07,Nordic Grain Co,Germany,Pretzels 250g,Snacks,1000,1000,0,0.0,4,0,11
+148,2025-03-28,2025-04-04,2025-04-04,Nordic Grain Co,Germany,Pretzels 250g,Snacks,800,800,0,0.0,0,1,7
+149,2025-04-18,2025-04-25,2025-04-26,Nordic Grain Co,Germany,Pretzels 250g,Snacks,500,500,0,0.0,1,0,8
+150,2025-05-19,2025-05-26,2025-05-25,Nordic Grain Co,Germany,Pretzels 250g,Snacks,1000,1000,0,0.0,-1,1,6
+151,2025-06-19,2025-06-26,2025-06-26,Nordic Grain Co,Germany,Pretzels 250g,Snacks,1000,1000,0,0.0,0,1,7
+152,2025-07-16,2025-07-23,2025-07-23,Nordic Grain Co,Germany,Pretzels 250g,Snacks,300,300,0,0.0,0,1,7
+153,2025-08-11,2025-08-18,2025-08-18,Nordic Grain Co,Germany,Pretzels 250g,Snacks,300,300,0,0.0,0,1,7
+154,2025-09-10,2025-09-17,2025-09-17,Nordic Grain Co,Germany,Pretzels 250g,Snacks,800,800,0,0.0,0,1,7
+155,2025-10-02,2025-10-09,2025-10-09,Nordic Grain Co,Germany,Pretzels 250g,Snacks,300,300,0,0.0,0,1,7
+156,2025-11-04,2025-11-11,2025-11-15,Nordic Grain Co,Germany,Pretzels 250g,Snacks,300,231,69,408.48,4,0,11
+157,2025-11-26,2025-12-03,2025-12-07,Nordic Grain Co,Germany,Pretzels 250g,Snacks,500,500,0,0.0,4,0,11
+158,2025-01-09,2025-01-15,2025-01-14,Golden Harvest,Canada,Granola Bar 6pk,Snacks,1000,1000,0,0.0,-1,1,5
+159,2025-02-05,2025-02-11,2025-02-11,Golden Harvest,Canada,Granola Bar 6pk,Snacks,1000,1000,0,0.0,0,1,6
+160,2025-02-27,2025-03-05,2025-03-04,Golden Harvest,Canada,Granola Bar 6pk,Snacks,800,800,0,0.0,-1,1,5
+161,2025-04-01,2025-04-07,2025-04-07,Golden Harvest,Canada,Granola Bar 6pk,Snacks,300,300,0,0.0,0,1,6
+162,2025-04-26,2025-05-02,2025-05-01,Golden Harvest,Canada,Granola Bar 6pk,Snacks,500,500,0,0.0,-1,1,5
+163,2025-05-17,2025-05-23,2025-05-23,Golden Harvest,Canada,Granola Bar 6pk,Snacks,800,800,0,0.0,0,1,6
+164,2025-06-10,2025-06-16,2025-06-15,Golden Harvest,Canada,Granola Bar 6pk,Snacks,1000,1000,0,0.0,-1,1,5
+165,2025-07-12,2025-07-18,2025-07-17,Golden Harvest,Canada,Granola Bar 6pk,Snacks,800,800,0,0.0,-1,1,5
+166,2025-08-14,2025-08-20,2025-08-19,Golden Harvest,Canada,Granola Bar 6pk,Snacks,800,800,0,0.0,-1,1,5
+167,2025-09-05,2025-09-11,2025-09-11,Golden Harvest,Canada,Granola Bar 6pk,Snacks,300,300,0,0.0,0,1,6
+168,2025-10-06,2025-10-12,2025-10-12,Golden Harvest,Canada,Granola Bar 6pk,Snacks,300,300,0,0.0,0,1,6
+169,2025-10-27,2025-11-02,2025-11-01,Golden Harvest,Canada,Granola Bar 6pk,Snacks,500,500,0,0.0,-1,1,5
+170,2025-11-22,2025-11-28,2025-11-27,Golden Harvest,Canada,Granola Bar 6pk,Snacks,300,300,0,0.0,-1,1,5
+171,2025-12-13,2025-12-19,2025-12-24,Golden Harvest,Canada,Granola Bar 6pk,Snacks,800,800,0,0.0,5,0,11
+172,2025-01-05,2025-01-15,2025-01-18,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,1000,1000,0,0.0,3,0,13
+173,2025-01-30,2025-02-09,2025-02-09,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,300,300,0,0.0,0,1,10
+174,2025-03-03,2025-03-13,2025-03-12,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,1000,1000,0,0.0,-1,1,9
+175,2025-04-03,2025-04-13,2025-04-12,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,800,800,0,0.0,-1,1,9
+176,2025-05-02,2025-05-12,2025-05-12,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,300,239,61,158.6,0,1,10
+177,2025-05-31,2025-06-10,2025-06-10,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,500,500,0,0.0,0,1,10
+178,2025-06-21,2025-07-01,2025-06-30,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,300,300,0,0.0,-1,1,9
+179,2025-07-14,2025-07-24,2025-07-23,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,300,300,0,0.0,-1,1,9
+180,2025-08-14,2025-08-24,2025-08-24,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,300,300,0,0.0,0,1,10
+181,2025-09-15,2025-09-25,2025-09-25,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,1000,1000,0,0.0,0,1,10
+182,2025-10-20,2025-10-30,2025-10-30,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,300,300,0,0.0,0,1,10
+183,2025-11-22,2025-12-02,2025-12-06,Pacific Pantry Ltd,USA,Mixed Nuts 300g,Snacks,300,300,0,0.0,4,0,14
+184,2025-01-04,2025-01-12,2025-01-11,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,500,500,0,0.0,-1,1,7
+185,2025-02-05,2025-02-13,2025-02-12,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,300,230,70,272.3,-1,1,7
+186,2025-02-28,2025-03-08,2025-03-07,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,300,300,0,0.0,-1,1,7
+187,2025-03-25,2025-04-02,2025-04-02,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,800,610,190,739.1,0,1,8
+188,2025-04-19,2025-04-27,2025-04-28,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,300,300,0,0.0,1,0,9
+189,2025-05-24,2025-06-01,2025-05-31,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,1000,1000,0,0.0,-1,1,7
+190,2025-06-28,2025-07-06,2025-07-08,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,800,679,121,470.69,2,0,10
+191,2025-07-26,2025-08-03,2025-08-03,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,1000,1000,0,0.0,0,1,8
+192,2025-08-16,2025-08-24,2025-08-26,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,500,500,0,0.0,2,0,10
+193,2025-09-13,2025-09-21,2025-09-21,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,300,300,0,0.0,0,1,8
+194,2025-10-06,2025-10-14,2025-10-14,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,1000,1000,0,0.0,0,1,8
+195,2025-11-10,2025-11-18,2025-11-18,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,1000,818,182,707.98,0,1,8
+196,2025-12-03,2025-12-11,2025-12-18,Alpine Snacks GmbH,Germany,Rice Crackers 150g,Snacks,800,800,0,0.0,7,0,15
+197,2025-01-09,2025-01-17,2025-01-16,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,800,800,0,0.0,-1,1,7
+198,2025-02-06,2025-02-14,2025-02-13,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,1000,1000,0,0.0,-1,1,7
+199,2025-03-09,2025-03-17,2025-03-22,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,300,300,0,0.0,5,0,13
+200,2025-03-31,2025-04-08,2025-04-07,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,300,300,0,0.0,-1,1,7
+201,2025-04-30,2025-05-08,2025-05-14,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,300,300,0,0.0,6,0,14
+202,2025-05-21,2025-05-29,2025-06-03,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,800,753,47,145.7,5,0,13
+203,2025-06-20,2025-06-28,2025-06-27,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,1000,1000,0,0.0,-1,1,7
+204,2025-07-20,2025-07-28,2025-07-28,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,1000,1000,0,0.0,0,1,8
+205,2025-08-19,2025-08-27,2025-09-04,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,300,300,0,0.0,8,0,16
+206,2025-09-17,2025-09-25,2025-09-25,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,300,300,0,0.0,0,1,8
+207,2025-10-20,2025-10-28,2025-10-27,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,500,500,0,0.0,-1,1,7
+208,2025-11-14,2025-11-22,2025-11-30,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,300,258,42,130.2,8,0,16
+209,2025-12-09,2025-12-17,2025-12-19,Alpine Snacks GmbH,Germany,Orange Juice 1L,Beverages,300,300,0,0.0,2,0,10
+210,2025-01-06,2025-01-14,2025-01-13,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,800,800,0,0.0,-1,1,7
+211,2025-01-27,2025-02-04,2025-02-04,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,300,300,0,0.0,0,1,8
+212,2025-02-27,2025-03-07,2025-03-06,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,1000,1000,0,0.0,-1,1,7
+213,2025-03-28,2025-04-05,2025-04-05,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,500,500,0,0.0,0,1,8
+214,2025-04-28,2025-05-06,2025-05-06,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,800,750,50,257.5,0,1,8
+215,2025-05-19,2025-05-27,2025-05-27,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,500,500,0,0.0,0,1,8
+216,2025-06-21,2025-06-29,2025-06-29,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,500,412,88,453.2,0,1,8
+217,2025-07-13,2025-07-21,2025-07-20,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,500,500,0,0.0,-1,1,7
+218,2025-08-17,2025-08-25,2025-08-24,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,800,800,0,0.0,-1,1,7
+219,2025-09-08,2025-09-16,2025-09-15,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,500,500,0,0.0,-1,1,7
+220,2025-10-09,2025-10-17,2025-10-16,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,800,800,0,0.0,-1,1,7
+221,2025-11-12,2025-11-20,2025-11-20,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,800,800,0,0.0,0,1,8
+222,2025-12-07,2025-12-15,2025-12-22,Alpine Snacks GmbH,Germany,Sparkling Water 6pk,Beverages,1000,1000,0,0.0,7,0,15
+223,2025-01-07,2025-01-14,2025-01-14,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,1000,1000,0,0.0,0,1,7
+224,2025-01-31,2025-02-07,2025-02-07,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,800,800,0,0.0,0,1,7
+225,2025-03-06,2025-03-13,2025-03-13,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,500,500,0,0.0,0,1,7
+226,2025-04-03,2025-04-10,2025-04-16,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,800,800,0,0.0,6,0,13
+227,2025-05-03,2025-05-10,2025-05-14,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,300,300,0,0.0,4,0,11
+228,2025-06-03,2025-06-10,2025-06-10,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,1000,941,59,292.05,0,1,7
+229,2025-06-27,2025-07-04,2025-07-07,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,300,300,0,0.0,3,0,10
+230,2025-07-19,2025-07-26,2025-07-25,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,300,300,0,0.0,-1,1,6
+231,2025-08-17,2025-08-24,2025-08-23,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,500,500,0,0.0,-1,1,6
+232,2025-09-09,2025-09-16,2025-09-15,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,800,800,0,0.0,-1,1,6
+233,2025-10-08,2025-10-15,2025-10-15,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,500,500,0,0.0,0,1,7
+234,2025-11-04,2025-11-11,2025-11-11,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,300,300,0,0.0,0,1,7
+235,2025-11-30,2025-12-07,2025-12-10,Nordic Grain Co,Germany,Green Tea 20bags,Beverages,300,300,0,0.0,3,0,10
+236,2025-01-03,2025-01-09,2025-01-09,Golden Harvest,Canada,Ground Coffee 500g,Beverages,1000,1000,0,0.0,0,1,6
+237,2025-01-29,2025-02-04,2025-02-03,Golden Harvest,Canada,Ground Coffee 500g,Beverages,500,500,0,0.0,-1,1,5
+238,2025-03-05,2025-03-11,2025-03-11,Golden Harvest,Canada,Ground Coffee 500g,Beverages,1000,1000,0,0.0,0,1,6
+239,2025-03-26,2025-04-01,2025-04-01,Golden Harvest,Canada,Ground Coffee 500g,Beverages,800,800,0,0.0,0,1,6
+240,2025-04-18,2025-04-24,2025-04-24,Golden Harvest,Canada,Ground Coffee 500g,Beverages,1000,1000,0,0.0,0,1,6
+241,2025-05-10,2025-05-16,2025-05-15,Golden Harvest,Canada,Ground Coffee 500g,Beverages,500,500,0,0.0,-1,1,5
+242,2025-06-05,2025-06-11,2025-06-11,Golden Harvest,Canada,Ground Coffee 500g,Beverages,1000,1000,0,0.0,0,1,6
+243,2025-07-09,2025-07-15,2025-07-14,Golden Harvest,Canada,Ground Coffee 500g,Beverages,1000,1000,0,0.0,-1,1,5
+244,2025-08-01,2025-08-07,2025-08-06,Golden Harvest,Canada,Ground Coffee 500g,Beverages,300,271,29,160.37,-1,1,5
+245,2025-09-05,2025-09-11,2025-09-11,Golden Harvest,Canada,Ground Coffee 500g,Beverages,1000,1000,0,0.0,0,1,6
+246,2025-10-07,2025-10-13,2025-10-12,Golden Harvest,Canada,Ground Coffee 500g,Beverages,300,300,0,0.0,-1,1,5
+247,2025-11-11,2025-11-17,2025-11-19,Golden Harvest,Canada,Ground Coffee 500g,Beverages,1000,1000,0,0.0,2,0,8
+248,2025-12-08,2025-12-14,2025-12-17,Golden Harvest,Canada,Ground Coffee 500g,Beverages,800,667,133,735.49,3,0,9
+249,2025-01-08,2025-01-13,2025-01-13,FreshLine Distributors,USA,Oat Drink 1L,Beverages,1000,1000,0,0.0,0,1,5
+250,2025-02-08,2025-02-13,2025-02-12,FreshLine Distributors,USA,Oat Drink 1L,Beverages,1000,1000,0,0.0,-1,1,4
+251,2025-03-10,2025-03-15,2025-03-15,FreshLine Distributors,USA,Oat Drink 1L,Beverages,800,800,0,0.0,0,1,5
+252,2025-04-01,2025-04-06,2025-04-05,FreshLine Distributors,USA,Oat Drink 1L,Beverages,500,500,0,0.0,-1,1,4
+253,2025-04-25,2025-04-30,2025-04-30,FreshLine Distributors,USA,Oat Drink 1L,Beverages,800,800,0,0.0,0,1,5
+254,2025-05-16,2025-05-21,2025-05-20,FreshLine Distributors,USA,Oat Drink 1L,Beverages,300,300,0,0.0,-1,1,4
+255,2025-06-12,2025-06-17,2025-06-17,FreshLine Distributors,USA,Oat Drink 1L,Beverages,1000,1000,0,0.0,0,1,5
+256,2025-07-05,2025-07-10,2025-07-10,FreshLine Distributors,USA,Oat Drink 1L,Beverages,800,800,0,0.0,0,1,5
+257,2025-07-27,2025-08-01,2025-08-01,FreshLine Distributors,USA,Oat Drink 1L,Beverages,300,300,0,0.0,0,1,5
+258,2025-08-17,2025-08-22,2025-08-22,FreshLine Distributors,USA,Oat Drink 1L,Beverages,300,300,0,0.0,0,1,5
+259,2025-09-19,2025-09-24,2025-09-23,FreshLine Distributors,USA,Oat Drink 1L,Beverages,300,251,49,202.86,-1,1,4
+260,2025-10-14,2025-10-19,2025-10-19,FreshLine Distributors,USA,Oat Drink 1L,Beverages,1000,1000,0,0.0,0,1,5
+261,2025-11-07,2025-11-12,2025-11-12,FreshLine Distributors,USA,Oat Drink 1L,Beverages,800,800,0,0.0,0,1,5
+262,2025-12-06,2025-12-11,2025-12-10,FreshLine Distributors,USA,Oat Drink 1L,Beverages,800,800,0,0.0,-1,1,4
+263,2025-01-03,2025-01-13,2025-01-13,Pacific Pantry Ltd,USA,Flour 2kg,Baking,800,800,0,0.0,0,1,10
+264,2025-01-25,2025-02-04,2025-02-04,Pacific Pantry Ltd,USA,Flour 2kg,Baking,500,457,43,87.29,0,1,10
+265,2025-02-26,2025-03-08,2025-03-08,Pacific Pantry Ltd,USA,Flour 2kg,Baking,1000,1000,0,0.0,0,1,10
+266,2025-03-22,2025-04-01,2025-04-07,Pacific Pantry Ltd,USA,Flour 2kg,Baking,500,500,0,0.0,6,0,16
+267,2025-04-22,2025-05-02,2025-05-02,Pacific Pantry Ltd,USA,Flour 2kg,Baking,1000,1000,0,0.0,0,1,10
+268,2025-05-18,2025-05-28,2025-05-28,Pacific Pantry Ltd,USA,Flour 2kg,Baking,500,500,0,0.0,0,1,10
+269,2025-06-10,2025-06-20,2025-06-20,Pacific Pantry Ltd,USA,Flour 2kg,Baking,500,500,0,0.0,0,1,10
+270,2025-07-02,2025-07-12,2025-07-11,Pacific Pantry Ltd,USA,Flour 2kg,Baking,1000,767,233,472.99,-1,1,9
+271,2025-07-25,2025-08-04,2025-08-03,Pacific Pantry Ltd,USA,Flour 2kg,Baking,300,300,0,0.0,-1,1,9
+272,2025-08-20,2025-08-30,2025-08-29,Pacific Pantry Ltd,USA,Flour 2kg,Baking,300,300,0,0.0,-1,1,9
+273,2025-09-18,2025-09-28,2025-09-30,Pacific Pantry Ltd,USA,Flour 2kg,Baking,500,426,74,150.22,2,0,12
+274,2025-10-15,2025-10-25,2025-10-25,Pacific Pantry Ltd,USA,Flour 2kg,Baking,500,500,0,0.0,0,1,10
+275,2025-11-15,2025-11-25,2025-11-25,Pacific Pantry Ltd,USA,Flour 2kg,Baking,800,741,59,119.77,0,1,10
+276,2025-12-06,2025-12-16,2025-12-16,Pacific Pantry Ltd,USA,Flour 2kg,Baking,800,800,0,0.0,0,1,10
+277,2025-01-10,2025-01-18,2025-01-24,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,300,300,0,0.0,6,0,14
+278,2025-02-12,2025-02-20,2025-02-23,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,300,300,0,0.0,3,0,11
+279,2025-03-10,2025-03-18,2025-03-18,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,300,300,0,0.0,0,1,8
+280,2025-04-14,2025-04-22,2025-04-25,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,1000,1000,0,0.0,3,0,11
+281,2025-05-07,2025-05-15,2025-05-19,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,800,800,0,0.0,4,0,12
+282,2025-06-02,2025-06-10,2025-06-14,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,500,500,0,0.0,4,0,12
+283,2025-06-27,2025-07-05,2025-07-06,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,800,800,0,0.0,1,0,9
+284,2025-07-19,2025-07-27,2025-08-03,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,800,800,0,0.0,7,0,15
+285,2025-08-11,2025-08-19,2025-08-22,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,300,300,0,0.0,3,0,11
+286,2025-09-12,2025-09-20,2025-09-19,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,1000,1000,0,0.0,-1,1,7
+287,2025-10-10,2025-10-18,2025-10-18,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,500,500,0,0.0,0,1,8
+288,2025-11-13,2025-11-21,2025-11-21,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,500,425,75,408.75,0,1,8
+289,2025-12-12,2025-12-20,2025-12-20,Alpine Snacks GmbH,Germany,Sugar 1kg,Baking,500,500,0,0.0,0,1,8
+290,2025-01-01,2025-01-06,2025-01-05,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,1000,0,0.0,-1,1,4
+291,2025-02-03,2025-02-08,2025-02-07,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,934,66,221.1,-1,1,4
+292,2025-02-25,2025-03-02,2025-03-02,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,1000,0,0.0,0,1,5
+293,2025-03-23,2025-03-28,2025-03-28,Maple Valley Foods,Canada,Baking Powder 100g,Baking,800,800,0,0.0,0,1,5
+294,2025-04-16,2025-04-21,2025-04-21,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,1000,0,0.0,0,1,5
+295,2025-05-09,2025-05-14,2025-05-13,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,1000,0,0.0,-1,1,4
+296,2025-06-10,2025-06-15,2025-06-14,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,1000,0,0.0,-1,1,4
+297,2025-07-11,2025-07-16,2025-07-16,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,1000,0,0.0,0,1,5
+298,2025-08-06,2025-08-11,2025-08-11,Maple Valley Foods,Canada,Baking Powder 100g,Baking,1000,1000,0,0.0,0,1,5
+299,2025-09-10,2025-09-15,2025-09-15,Maple Valley Foods,Canada,Baking Powder 100g,Baking,500,500,0,0.0,0,1,5
+300,2025-10-06,2025-10-11,2025-10-11,Maple Valley Foods,Canada,Baking Powder 100g,Baking,300,300,0,0.0,0,1,5
+301,2025-11-09,2025-11-14,2025-11-13,Maple Valley Foods,Canada,Baking Powder 100g,Baking,500,500,0,0.0,-1,1,4
+302,2025-12-05,2025-12-10,2025-12-10,Maple Valley Foods,Canada,Baking Powder 100g,Baking,300,300,0,0.0,0,1,5
+303,2025-01-11,2025-01-20,2025-01-20,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,800,800,0,0.0,0,1,9
+304,2025-02-13,2025-02-22,2025-03-02,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,500,500,0,0.0,8,0,17
+305,2025-03-12,2025-03-21,2025-03-21,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,500,450,50,71.5,0,1,9
+306,2025-04-04,2025-04-13,2025-04-13,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,500,500,0,0.0,0,1,9
+307,2025-05-09,2025-05-18,2025-05-26,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,500,500,0,0.0,8,0,17
+308,2025-06-01,2025-06-10,2025-06-15,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,300,226,74,105.82,5,0,14
+309,2025-06-26,2025-07-05,2025-07-10,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,800,800,0,0.0,5,0,14
+310,2025-07-30,2025-08-08,2025-08-08,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,500,500,0,0.0,0,1,9
+311,2025-09-03,2025-09-12,2025-09-12,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,500,392,108,154.44,0,1,9
+312,2025-10-06,2025-10-15,2025-10-23,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,500,500,0,0.0,8,0,17
+313,2025-11-06,2025-11-15,2025-11-20,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,300,300,0,0.0,5,0,14
+314,2025-12-10,2025-12-19,2025-12-19,EuroBake Supply,Netherlands,Chocolate Chips 300g,Baking,1000,1000,0,0.0,0,1,9
+315,2025-01-03,2025-01-08,2025-01-07,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,800,800,0,0.0,-1,1,4
+316,2025-02-05,2025-02-10,2025-02-09,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,800,800,0,0.0,-1,1,4
+317,2025-03-05,2025-03-10,2025-03-10,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,800,800,0,0.0,0,1,5
+318,2025-04-03,2025-04-08,2025-04-07,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,1000,1000,0,0.0,-1,1,4
+319,2025-05-06,2025-05-11,2025-05-11,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,800,800,0,0.0,0,1,5
+320,2025-05-27,2025-06-01,2025-06-08,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,1000,1000,0,0.0,7,0,12
+321,2025-06-22,2025-06-27,2025-06-27,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,300,300,0,0.0,0,1,5
+322,2025-07-21,2025-07-26,2025-07-26,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,500,500,0,0.0,0,1,5
+323,2025-08-23,2025-08-28,2025-08-28,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,800,800,0,0.0,0,1,5
+324,2025-09-22,2025-09-27,2025-09-27,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,800,800,0,0.0,0,1,5
+325,2025-10-19,2025-10-24,2025-10-24,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,800,706,94,251.92,0,1,5
+326,2025-11-16,2025-11-21,2025-11-21,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,1000,1000,0,0.0,0,1,5
+327,2025-12-12,2025-12-17,2025-12-17,FreshLine Distributors,USA,Vanilla Extract 50ml,Baking,300,300,0,0.0,0,1,5

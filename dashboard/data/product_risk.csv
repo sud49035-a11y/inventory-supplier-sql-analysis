@@ -1,0 +1,26 @@
+product_name,category,supplier_name,reorder_point,daily_demand_per_store,avg_lead_days,lead_time_demand,shortfall_vs_reorder_point,risk_status
+Spaghetti 500g,Pasta & Grains,Pacific Pantry Ltd,100,10.1,9.5,96.0,-4.0,OK
+Penne 500g,Pasta & Grains,Nordic Grain Co,200,11.3,7.6,86.0,-114.0,OK
+Basmati Rice 2kg,Pasta & Grains,Alpine Snacks GmbH,60,13.0,10.4,135.0,75.0,At risk
+Rolled Oats 1kg,Pasta & Grains,EuroBake Supply,100,14.2,11.9,169.0,69.0,At risk
+Couscous 500g,Pasta & Grains,Maple Valley Foods,100,8.8,4.6,40.0,-60.0,OK
+Diced Tomatoes 400g,Canned Goods,Sunrise Beverages,100,10.0,3.3,33.0,-67.0,OK
+Chickpeas 400g,Canned Goods,Nordic Grain Co,200,12.1,8.3,101.0,-99.0,OK
+Black Beans 400g,Canned Goods,Pacific Pantry Ltd,60,12.9,11.1,143.0,83.0,At risk
+Tuna Chunks 170g,Canned Goods,EuroBake Supply,60,14.5,9.8,142.0,82.0,At risk
+Sweet Corn 340g,Canned Goods,Golden Harvest,100,8.8,6.6,58.0,-42.0,OK
+Salted Chips 200g,Snacks,Alpine Snacks GmbH,150,10.5,10.1,107.0,-43.0,OK
+Pretzels 250g,Snacks,Nordic Grain Co,200,12.3,7.8,97.0,-103.0,OK
+Granola Bar 6pk,Snacks,Golden Harvest,100,13.5,5.8,78.0,-22.0,OK
+Mixed Nuts 300g,Snacks,Pacific Pantry Ltd,60,14.5,10.3,148.0,88.0,At risk
+Rice Crackers 150g,Snacks,Alpine Snacks GmbH,100,9.1,8.6,78.0,-22.0,OK
+Orange Juice 1L,Beverages,Alpine Snacks GmbH,150,11.4,10.2,117.0,-33.0,OK
+Sparkling Water 6pk,Beverages,Alpine Snacks GmbH,60,12.7,8.1,102.0,42.0,At risk
+Green Tea 20bags,Beverages,Nordic Grain Co,100,14.4,8.0,115.0,15.0,At risk
+Ground Coffee 500g,Beverages,Golden Harvest,100,15.6,6.0,94.0,-6.0,OK
+Oat Drink 1L,Beverages,FreshLine Distributors,100,9.7,4.6,45.0,-55.0,OK
+Flour 2kg,Baking,Pacific Pantry Ltd,200,11.4,10.4,118.0,-82.0,OK
+Sugar 1kg,Baking,Alpine Snacks GmbH,100,12.8,10.3,132.0,32.0,At risk
+Baking Powder 100g,Baking,Maple Valley Foods,60,14.5,4.6,67.0,7.0,At risk
+Chocolate Chips 300g,Baking,EuroBake Supply,60,15.4,12.3,189.0,129.0,At risk
+Vanilla Extract 50ml,Baking,FreshLine Distributors,150,9.7,5.3,52.0,-98.0,OK
